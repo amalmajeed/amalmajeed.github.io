@@ -1,2 +1,2 @@
-# homeprofile
-Github pages project
+# amalmajeed.github.io
+amalmajeed.github.io
